@@ -32,5 +32,6 @@ All scripts are distributed under the [MIT license](http://opensource.org/licens
 
 ## Scripts
 
+* [File2CppByteArray.csx](src/File2CppByteArray/README.md) - Converts a file to a C++ bytes array.
 * [RegisteredWindowMessages.csx](src/RegisteredWindowMessages/README.md) - Lists windows messages that were registered with RegisterWindowMessageA() and RegisterWindowMessageW functions.
 * [ShowBits.csx](src/ShowBits/README.md) - Shows bits of any number.
